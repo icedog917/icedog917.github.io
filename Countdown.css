@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    background: black;
+}
+h1{
+    color: white;
+    align-self: center;
+}
+img{
+    align-self: center;
+    height: 40vh;
+}
